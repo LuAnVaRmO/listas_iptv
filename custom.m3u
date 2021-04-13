@@ -91,8 +91,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/3753
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57767
 #EXTINF:-1 tvg-id="" tvg-name="ATACAMA TV" tvg-logo="https://pbs.twimg.com/media/EA1weL5WkAAK9UN.jpg" group-title="CHILE REGIONALES",ATACAMA TV
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15868
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Braves" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Atlanta Braves
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57722
 #EXTINF:-1 tvg-id="" tvg-name="AXN LATINO ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE",AXN LATINO ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/1725
 #EXTINF:-1 tvg-id="axnwhite.sp" tvg-name="AXN WHITE ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="CINE",AXN WHITE ⁽ᵃ⁾
@@ -153,42 +151,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/33726
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/55398
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTIL",BOOMERANG ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/720
-#EXTINF:-1 tvg-id="" tvg-name="Boston Red Sox" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Boston Red Sox
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57740
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="BR: A&E" tvg-logo="https://cdn.worldvectorlogo.com/logos/a-e.svg" group-title="BRASIL",BR: A&E
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/45642
-#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SP " tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="BRASIL",BR: BAND SP 
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15737
-#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOON NETWORK " tvg-logo="https://www.stickpng.com/assets/images/589a41e25aa6293a4aac48ab.png" group-title="BRASIL",BR: CARTOON NETWORK 
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/14785
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.svg_.png" group-title="BRASIL",BR: DISCOVERY CHANNEL
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15738
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="BR: DISCOVERY H&H" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png/revision/latest/scale-to-width-down/340?cb=20190926042803&path-prefix=es" group-title="BRASIL",BR: DISCOVERY H&H
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/45649
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="BRASIL",BR: DISCOVERY KIDS
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15736
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN " tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-brasil-2-logo.png" group-title="BRASIL",BR: ESPN 
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15735
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 1" tvg-logo="https://i.ytimg.com/vi/cOA69YxcZSE/maxresdefault.jpg" group-title="BRASIL",BR: FOX SPORTS 1
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/14787
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO BRASILIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="BRASIL",BR: GLOBO BRASILIA
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15728
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="BRASIL",BR: GLOBO RJ
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15729
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018142954.png" group-title="BRASIL",BR: PREMIERE CLUBES
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15733
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="BRASIL",BR: RECORD SP 
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15727
-#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2019/10/30/logo-rede-tv-1572473606244_v2_900x506.png" group-title="BRASIL",BR: REDE TV
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15726
-#EXTINF:-1 tvg-id="" tvg-name="BR: SBT " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="BRASIL",BR: SBT 
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15725
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/SporTV_logo_2016.png" group-title="BRASIL",BR: SPORTV 1 HD 
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15730
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/SporTV_2_logotipo.png" group-title="BRASIL",BR: SPORTV 2
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15731
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="BRASIL",BR: SPORTV3
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15732
 #EXTINF:-1 tvg-id="" tvg-name="CABLE NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS",CABLE NOTICIAS
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/27714
 #EXTINF:-1 tvg-id="" tvg-name="Cachipum TV Series" tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="CHILE REGIONALES",Cachipum TV Series
@@ -361,12 +323,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/520
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/27154
 #EXTINF:-1 tvg-id="tvn.cl" tvg-name="CH: TVN ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/TVN_Chile_Logo.svg/400px-TVN_Chile_Logo.svg.png" group-title="CHILE",CH: TVN ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/519
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Cubs" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Chicago Cubs
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57725
-#EXTINF:-1 tvg-id="" tvg-name="Chicago White Sox" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Chicago White Sox
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57745
-#EXTINF:-1 tvg-id="" tvg-name="Cincinnati Reds" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Cincinnati Reds
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57741
 #EXTINF:-1 tvg-id="#0.sp" tvg-name="CINE AR ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE",CINE AR ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/55009
 #EXTINF:-1 tvg-id="" tvg-name="CINE AR ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE",CINE AR ⁽ᵃ⁾
@@ -417,8 +373,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/1727
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/42437
 #EXTINF:-1 tvg-id="#0.sp" tvg-name="CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="DEPORTES",CLARO SPORTS
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/54755
-#EXTINF:-1 tvg-id="" tvg-name="Cleveland Indians" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Cleveland Indians
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57728
 #EXTINF:-1 tvg-id="" tvg-name="CNN CHILE*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS",CNN CHILE*
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/27710
 #EXTINF:-1 tvg-id="" tvg-name="CNN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_de_CNN_en_Espa%C3%B1ol.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol.svg.png" group-title="NOTICIAS",CNN ESPAÑOL
@@ -511,8 +465,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/17782
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/17769
 #EXTINF:-1 tvg-id="" tvg-name="COL: WIN SPORTS + " tvg-logo="https://www.winsports.co/assets/img/win/winsports-small_2017.png" group-title="COLOMBIA",COL: WIN SPORTS + 
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/17768
-#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Colorado Rockies
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57742
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE (brasil)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/combate-logo-png-9.png" group-title="DEPORTES",COMBATE (brasil)
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/16188
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="ENTRETENCIÓN",COMEDY CENTRAL
@@ -533,8 +485,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/42434
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/1728
 #EXTINF:-1 tvg-id="" tvg-name="Delicioso HD" tvg-logo="" group-title="PPV CINE",Delicioso HD
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/54864
-#EXTINF:-1 tvg-id="" tvg-name="Detroit Tigers" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Detroit Tigers
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57726
 #EXTINF:-1 tvg-id="" tvg-name="DHE ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE",DHE ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/55011
 #EXTINF:-1 tvg-id="#0.sp" tvg-name="DHE ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE",DHE ⁽ᴴᴰ⁾
@@ -787,8 +737,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/53991
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/58092
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 BRASIL (ʜᴅ)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 BRASIL (ʜᴅ)
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57809
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="ESPN 2 BRASIL (ʜᴅ)" tvg-logo="" group-title="BRASIL",ESPN 2 BRASIL (ʜᴅ)
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/54328
 #EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE 1080" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES",ESPN 2 CHILE 1080
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57325
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE 720" tvg-logo="https://logodix.com/logo/313657.png" group-title="DEPORTES",ESPN 2 CHILE 720
@@ -1147,12 +1095,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/3819
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/3818
 #EXTINF:-1 tvg-id="" tvg-name="MEX: UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="MÉXICO",MEX: UNICABLE
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/3815
-#EXTINF:-1 tvg-id="" tvg-name="Miami Marlins" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Miami Marlins
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57730
-#EXTINF:-1 tvg-id="" tvg-name="Milwaukee Brewers" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Milwaukee Brewers
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57723
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Twins" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Minnesota Twins
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57744
 #EXTINF:-1 tvg-id="" tvg-name="Mix 24-7" tvg-logo="https://static.wixstatic.com/media/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.webp" group-title="MÚSICA",Mix 24-7
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/58118
 #EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Pop" tvg-logo="https://static.wixstatic.com/media/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.webp" group-title="MÚSICA",Mix 24-7 Pop
@@ -1161,8 +1103,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/58122
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/58123
 #EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="https://forounivers.com/uploads/monthly_2018_02/large.5a82809cec9bb_MLBNetwork.png.93d179ea57d27431c1329b2c6c04702e.png" group-title="DEPORTES",MLB
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/53327
-#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="PPV MLB",MLB NETWORK
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/53561
 #EXTINF:-1 tvg-id="" tvg-name="MoreMax FHD" tvg-logo="https://lh3.googleusercontent.com/proxy/wRXpFP5TO7yRPjM3Hq7gy8BT2cNi05DT2kf67Ild5U-Mo-0bsQz2umRUlYZr3XE_EmzlSqtQIV2PBZHvSod98h9tr4LYJK_cte7sA8FqbHfFSg" group-title="PPV CINE",MoreMax FHD
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/54867
 #EXTINF:-1 tvg-id="" tvg-name="MovieMax FHD" tvg-logo="https://www.gntnigeria.com/certifications/moviemax/MovieMax_Latin_Atlansia.png" group-title="PPV CINE",MovieMax FHD
@@ -1225,8 +1165,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/803
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/1165
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV ⁽ᴹ⁾" tvg-logo="https://www.pngkey.com/png/full/139-1392116_nba-tv-logo.png" group-title="DEPORTES",NBA TV ⁽ᴹ⁾
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/53346
-#EXTINF:-1 tvg-id="" tvg-name="New York Mets" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",New York Mets
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57731
 #EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK" tvg-logo="https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.svg" group-title="DEPORTES",NFL NETWORK
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/53344
 #EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE" tvg-logo="https://www.reviews.org/app/uploads/2018/11/Nfl_red_zone.png" group-title="DEPORTES",NFL REDZONE
@@ -1247,8 +1185,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/727
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/5416
 #EXTINF:-1 tvg-id="" tvg-name="NICKTOONS*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="INFANTIL",NICKTOONS*
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/33728
-#EXTINF:-1 tvg-id="" tvg-name="Oakland Athletics" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Oakland Athletics
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57720
 #EXTINF:-1 tvg-id="#0.sp" tvg-name="Oromar TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="LATINOS SD",Oromar TV 
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/55436
 #EXTINF:-1 tvg-id="" tvg-name="OuterMax FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/OuterMax_2011.png/revision/latest/scale-to-width-down/340?cb=20200615022913&path-prefix=es" group-title="PPV CINE",OuterMax FHD
@@ -1307,14 +1243,10 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/58132
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/3422
 #EXTINF:-1 tvg-id="" tvg-name="PE: Willax SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/707c32d557dbdb6d6c3adce6af6c7f56.png" group-title="PERÚ",PE: Willax SD
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/39651
-#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Phillies" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Philadelphia Phillies
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57736
 #EXTINF:-1 tvg-id="" tvg-name="PINGUINO TV PUNTA ARENAS" tvg-logo="http://i.imgur.com/WXhBnNv.png" group-title="CHILE REGIONALES",PINGUINO TV PUNTA ARENAS
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/2257
 #EXTINF:-1 tvg-id="" tvg-name="PINTANA TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyJw7m1YEHyiW39s1Z6Zo9P_oB9y0vfYeFt3naq=s900-c-k-c0xffffffff-no-rj-mo" group-title="CHILE REGIONALES",PINTANA TV
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/58115
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Pittsburgh Pirates
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57737
 #EXTINF:-1 tvg-id="" tvg-name="PORTAL FOX MIX" tvg-logo="http://portalfoxmix.club/wp-content/uploads/2016/07/logoPFM.png" group-title="CHILE REGIONALES",PORTAL FOX MIX
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/2273
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="DEPORTES",PREMIERE 2
@@ -1387,12 +1319,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/17748
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/58135
 #EXTINF:-1 tvg-id="" tvg-name="SAN BORJA PERU" tvg-logo="https://www.sanborjatv.com/wp-content/uploads/2019/02/LogoSanBorja2019.png" group-title="MÚSICA",SAN BORJA PERU
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/3566
-#EXTINF:-1 tvg-id="" tvg-name="San Diego Padres" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",San Diego Padres
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57735
-#EXTINF:-1 tvg-id="" tvg-name="San Francisco Giants" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",San Francisco Giants
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57727
-#EXTINF:-1 tvg-id="" tvg-name="Seattle Mariners" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Seattle Mariners
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57729
 #EXTINF:-1 tvg-id="" tvg-name="Showtime Beyond FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Showtime_Beyond.svg/1280px-Showtime_Beyond.svg.png" group-title="PPV CINE",Showtime Beyond FHD
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/54871
 #EXTINF:-1 tvg-id="" tvg-name="Showtime East FHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sho.png" group-title="PPV CINE",Showtime East FHD
@@ -1413,8 +1339,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/54331
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/54332
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1200px-SporTV_3_2017_logo.svg.png" group-title="DEPORTES",SPORTV 3
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/54333
-#EXTINF:-1 tvg-id="" tvg-name="St. Louis Cardinals" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",St. Louis Cardinals
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57724
 #EXTINF:-1 tvg-id="" tvg-name="Starz Cinema FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1280px-Starz_Cinema_logo.svg.png" group-title="PPV CINE",Starz Cinema FHD
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/54873
 #EXTINF:-1 tvg-id="" tvg-name="Starz Comedy FHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzcomedy.png" group-title="PPV CINE",Starz Comedy FHD
@@ -1453,8 +1377,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/1756
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/1757
 #EXTINF:-1 tvg-id="" tvg-name="T1GO SPORTS 1" tvg-logo="https://www.logopik.com/wp-content/uploads/edd/2018/10/Sport-Vector-Logo-Dewonload-free-226x226.png" group-title="DEPORTES",T1GO SPORTS 1
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/9959
-#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Tampa Bay Rays
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57739
 #EXTINF:-1 tvg-id="" tvg-name="TBS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="CINE",TBS 
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/1758
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://canaltcm.com/wp-content/uploads/2019/04/tcm-icon.png" group-title="CINE",TCM
@@ -1477,8 +1399,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/15866
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/1766
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTES",TENNIS CHANNEL ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/55291
-#EXTINF:-1 tvg-id="" tvg-name="Texas Rangers" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Texas Rangers
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57738
 #EXTINF:-1 tvg-id="" tvg-name="The Retro Channel" tvg-logo="https://theretrochannel.tv/img/theretrofb.jpg" group-title="MÚSICA",The Retro Channel
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/58130
 #EXTINF:-1 tvg-id="" tvg-name="ThemaTV " tvg-logo="https://unlimited2-cl.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL" group-title="CHILE REGIONALES",ThemaTV 
@@ -1517,8 +1437,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/728
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/42428
 #EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MÚSICA",TOP LATINO
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/3555
-#EXTINF:-1 tvg-id="" tvg-name="Toronto Blue Jays" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Toronto Blue Jays
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57721
 #EXTINF:-1 tvg-id="" tvg-name="TOROS" tvg-logo="https://www.logopik.com/wp-content/uploads/edd/2018/10/Sport-Vector-Logo-Dewonload-free-226x226.png" group-title="DEPORTES",TOROS
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/5248
 #EXTINF:-1 tvg-id="#0.sp" tvg-name="TRU TV ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="ENTRETENCIÓN",TRU TV ⁽ᴴᴰ⁾
@@ -1751,8 +1669,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/39291
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/55447
 #EXTINF:-1 tvg-id="" tvg-name="WARNER TV ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE",WARNER TV ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/1763
-#EXTINF:-1 tvg-id="" tvg-name="Washington Nationals" tvg-logo="https://slashshout.com/wp-content/uploads/2020/04/mlb_logo_a_l.jpg" group-title="PPV MLB",Washington Nationals
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/57733
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",WIN SPORTS
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/1035
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS  + HD+ " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKEwmWHdfWJBw05-QpclEpDdgVb2x5O1j-g&usqp=CAU" group-title="DEPORTES",WIN SPORTS  + HD+ 
@@ -1779,170 +1695,6 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/33364
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/58129
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="INFANTIL",ZOOMOO
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/27184
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - AMC HD" tvg-logo="http://144.217.91.146/Logos/Brazil/amc-us.png" group-title="BRASIL",Brasil - AMC HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63130
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Animal Planet HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/94d444633e1a3c2b5a566695505e3280.png" group-title="BRASIL",Brasil - Animal Planet HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63131
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Arte 1 HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/2acf6b8c3e49702f143cfa73ce50f553.png" group-title="BRASIL",Brasil - Arte 1 HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63132
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - AXN HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/908ada80271cdf4ac88542c08b7e4827.png" group-title="BRASIL",Brasil - AXN HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63133
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Baby HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/bed998fa30ed11770ca8188f8d4ea44a.png" group-title="BRASIL",Brasil - Baby HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63134
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Band Campinas HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/d55175573b4ce32836ed4aab30b6864f.png" group-title="BRASIL",Brasil - Band Campinas HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63135
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Band HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/6cec20aee4514583e51524082f0e5279.png" group-title="BRASIL",Brasil - Band HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63136
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Band News HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/df09fb1060721fcd83dc5b61c8a36bf6.png" group-title="BRASIL",Brasil - Band News HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63137
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Band Sports HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/23b7b374cc253cc1ac3970e835ba63fe.png" group-title="BRASIL",Brasil - Band Sports HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63138
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Boomerang HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/b5daf2edee20234b04ce375434ddf64c.png" group-title="BRASIL",Brasil - Boomerang HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63139
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Canal Brasil HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/ae2046847b23f9ca7dc59155b5095017.png" group-title="BRASIL",Brasil - Canal Brasil HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63140
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Cinemax HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/0cacabdfd0542c5125f585255ca9f03c.png" group-title="BRASIL",Brasil - Cinemax HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63141
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Comedy Central HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/d6f8ddc4ac59c4d9ccbc1de7c39b78c6.png" group-title="BRASIL",Brasil - Comedy Central HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63142
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Discovery Channel HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/03c295674250bc4b71cf4a545feebf20.png" group-title="BRASIL",Brasil - Discovery Channel HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63143
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Discovery Civilization HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/d7a5c6fd8b7b74acfb9b3886f57814f7.jpg" group-title="BRASIL",Brasil - Discovery Civilization HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63144
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Discovery Science HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/dc4e4f023284f3f4d9945df4bf2e9ffa.jpg" group-title="BRASIL",Brasil - Discovery Science HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63145
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Discovery Theater HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/e7bba53d9481a096c28e6fe1320494ef.jpg" group-title="BRASIL",Brasil - Discovery Theater HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63146
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Discovery Turbo HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/dbe81a9e68ada1461d2f5e72f368c1ee.jpg" group-title="BRASIL",Brasil - Discovery Turbo HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63147
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Discovery World HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/a95dab9057aafb69819ea0c1ec831663.jpg" group-title="BRASIL",Brasil - Discovery World HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63148
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Disney Jr HD" tvg-logo="" group-title="BRASIL",Brasil - Disney Jr HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63149
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Disney XD HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/efbc07f7a16863f16c56ff6fcfeda9b7.jpg" group-title="BRASIL",Brasil - Disney XD HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63150
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - E! HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/2d4cd9406b70be499efb3a0e647c0728.png" group-title="BRASIL",Brasil - E! HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63151
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - EPTV Ribeirao Preto HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/037ab5ce2be0105a173acea648a78f97.png" group-title="BRASIL",Brasil - EPTV Ribeirao Preto HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63152
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Food Network HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/5d1ce5ebf5036d55d863fda4d274571e.png" group-title="BRASIL",Brasil - Food Network HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63153
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Fox HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/f1f647d29bdda5997de0d562993de659.png" group-title="BRASIL",Brasil - Fox HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63154
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Fox Premium 2 HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/489c4fcd199285a0aaf4bd33eeaa815d.png" group-title="BRASIL",Brasil - Fox Premium 2 HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63155
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Fox Sports HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/cd8c085f54d02c5d6d748de19ec77fee.png" group-title="BRASIL",Brasil - Fox Sports HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63156
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - FX HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/3f5b072a29db0a27f65d6b5b9cdd23fc.png" group-title="BRASIL",Brasil - FX HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63157
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Globo Minas HD" tvg-logo="https://i.ytimg.com/vi/RzXp78RXqsY/maxresdefault.jpg" group-title="BRASIL",Brasil - Globo Minas HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63158
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Globo Nordeste HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/a74fc655f8bf230a838ee83a857e4887.png" group-title="BRASIL",Brasil - Globo Nordeste HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63159
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Globo Rbs Porto Alegre HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/4f3d793b6a8b6ca9f2b5abbc739d7d60.jpg" group-title="BRASIL",Brasil - Globo Rbs Porto Alegre HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63160
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Globo SP HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/e499d17797292799dce60d5e93ee9fff.png" group-title="BRASIL",Brasil - Globo SP HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63161
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Globo TV Sergipe HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/4249c8cead48dda53001b98bc4eda749.png" group-title="BRASIL",Brasil - Globo TV Sergipe HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63162
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Gloob HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/e499d17797292799dce60d5e93ee9fff.png" group-title="BRASIL",Brasil - Gloob HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63163
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Gloobinho HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/9d7ed98d9be6c37cfa56ce68d99c8fd5.png" group-title="BRASIL",Brasil - Gloobinho HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63164
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - GNT HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/db781ac97f8736685e24ed01d03af4b8.png" group-title="BRASIL",Brasil - GNT HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63165
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - H2 HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/2d28df3da9007fbfbb83e19d34dbdb15.png" group-title="BRASIL",Brasil - H2 HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63166
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - HBO 2 HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/7bcdce0dc02d63248ed45b3f10c55102.png" group-title="BRASIL",Brasil - HBO 2 HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63167
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - HBO Family HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/a80c587b1f8cdf1647fc45091efd61b0.png" group-title="BRASIL",Brasil - HBO Family HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63168
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - HBO HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/d56419a3cadec12262c8b32b745bf971.png" group-title="BRASIL",Brasil - HBO HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63169
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - HBO Plus HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/143aed9af04e1b39ad346a3e14ab8313.png" group-title="BRASIL",Brasil - HBO Plus HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63170
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - History HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/43caf40ef4e360c1cbea3577a4798ef5.png" group-title="BRASIL",Brasil - History HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63172
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - ID Discovery HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/84c7ee0434bfe9de438a74decb801c52.jpg" group-title="BRASIL",Brasil - ID Discovery HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63173
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Lifetime HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/ed9cefef1055d6f3b8e63ccb98c6da12.png" group-title="BRASIL",Brasil - Lifetime HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63174
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Max HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/e24ba07ace4f5755baa6f9eeb34fc033.png" group-title="BRASIL",Brasil - Max HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63175
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Max Prime HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/15c9353df30ee65168a8e32fc954707d.png" group-title="BRASIL",Brasil - Max Prime HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63176
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Max Up HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/4c0bd472891d5c2506bfaa5f7e7790cf.png" group-title="BRASIL",Brasil - Max Up HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63177
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Megapix HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/e4829d9d9de9a6f10a4421f92d542d9c.png" group-title="BRASIL",Brasil - Megapix HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63178
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Natgeo HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/5d7d7602c575af2367530865ee9ab8de.png" group-title="BRASIL",Brasil - Natgeo HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63179
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Natgeo Wild HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/8e31b5bf0a071929021b65ce419bf2a8.png" group-title="BRASIL",Brasil - Natgeo Wild HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63180
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Nick HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/5924410acdc639e8e50022d81f05080b.png" group-title="BRASIL",Brasil - Nick HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63181
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Nick Jr HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/93d69bc6c5949561b15f51a195dec9ba.png" group-title="BRASIL",Brasil - Nick Jr HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63182
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Off HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/ce4b54e35adfd544afdd286681778828.png" group-title="BRASIL",Brasil - Off HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63183
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Paramount HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/67b44a1fd874b3f4317e957437712aa3.png" group-title="BRASIL",Brasil - Paramount HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63184
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Record Ba HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/997a73068bea0146a34f681ff27fc054.jpg" group-title="BRASIL",Brasil - Record Ba HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63185
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Record HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/997a73068bea0146a34f681ff27fc054.jpg" group-title="BRASIL",Brasil - Record HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63186
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Record Mg HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/22e0e8fe7dd5455ed81b69c626aaec41.png" group-title="BRASIL",Brasil - Record Mg HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63187
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Record RJ HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/8126ed0f4bc7a640445ca40e512d3636.png" group-title="BRASIL",Brasil - Record RJ HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63188
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - SBT Cidade Verde HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/25bc0d03949a029ef8aa09b7afcd8946.png" group-title="BRASIL",Brasil - SBT Cidade Verde HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63189
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Sbt HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/25bc0d03949a029ef8aa09b7afcd8946.png" group-title="BRASIL",Brasil - Sbt HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63190
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - SBT SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/25bc0d03949a029ef8aa09b7afcd8946.png" group-title="BRASIL",Brasil - SBT SD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63191
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - SBT TV Jornal HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/25bc0d03949a029ef8aa09b7afcd8946.png" group-title="BRASIL",Brasil - SBT TV Jornal HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63192
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Sony Channel HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/fb6f2bcd02d62410aaf716edac8dbbd3.png" group-title="BRASIL",Brasil - Sony Channel HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63193
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Space HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/7accc33fa35593443307c47fdede1696.png" group-title="BRASIL",Brasil - Space HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63194
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Studio Universal HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/a31dd67cefaa5ad1afb9f75292b95983.png" group-title="BRASIL",Brasil - Studio Universal HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63195
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Syfy HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/19becbe1aa2e47128dcd237b8dcd81b9.png" group-title="BRASIL",Brasil - Syfy HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63196
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - TBS HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/0429f1134e9cff8d6d13688644740023.png" group-title="BRASIL",Brasil - TBS HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63197
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - TCM HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/988c6348dab8f69bc292c9027cb47ede.png" group-title="BRASIL",Brasil - TCM HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63198
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Telecine Action" tvg-logo="http://tv.iptv5latino.cl:8000/images/2c47baeba8f2ded3183198e39972a191.png" group-title="BRASIL",Brasil - Telecine Action
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63199
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Telecine Cult HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/6708088977bffb530004380745de4455.png" group-title="BRASIL",Brasil - Telecine Cult HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63200
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Telecine Fun HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/401812b1d145c43cd292ce883b509f4c.png" group-title="BRASIL",Brasil - Telecine Fun HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63201
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Telecine Pipoca" tvg-logo="http://tv.iptv5latino.cl:8000/images/31af21f89e8ec52c797b810b60923d8f.jpg" group-title="BRASIL",Brasil - Telecine Pipoca
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63202
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Telecine Pipoca HD" tvg-logo="https://www.satlogo.com/hires/tt/telecine_pipoca.png" group-title="BRASIL",Brasil - Telecine Pipoca HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63203
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Telecine Premium HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/2fe9ff1a6cb778f438716ff353624005.png" group-title="BRASIL",Brasil - Telecine Premium HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63204
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Telecine Touch HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/62dad3fcbede8ccb62abf0246d3130c0.png" group-title="BRASIL",Brasil - Telecine Touch HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63205
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - TNT Series HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/12e7dd2017a635b003edc30392936d3a.png" group-title="BRASIL",Brasil - TNT Series HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63206
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Tooncast HD" tvg-logo="" group-title="BRASIL",Brasil - Tooncast HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63207
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - TV Ra Tim Bum HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/03d7d464ece9f47690694a8f2ce3edc8.png" group-title="BRASIL",Brasil - TV Ra Tim Bum HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63208
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - TV Up HD (Futura) Pr" tvg-logo="" group-title="BRASIL",Brasil - TV Up HD (Futura) Pr
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63209
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Universal HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/ff651a7b32890c6b2f256a50ea8ca478.png" group-title="BRASIL",Brasil - Universal HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63210
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Woohoo HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/54b77aa67a72ab2fadfb1c354d1a0940.png" group-title="BRASIL",Brasil - Woohoo HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63211
-#EXTINF:-1 tvg-id="" tvg-name="Brasil - Premiere 1 HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/37d896074fbd78f6992dcf21f084f17d.png" group-title="BRASIL",Brasil - Premiere 1 HD
-http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63212
 #EXTINF:-1 tvg-id="" tvg-name="Venezuela - Meridiano TV" tvg-logo="http://144.217.91.146/Logos/Venezuela/meridiantotv.png" group-title="VENEZUELA",Venezuela - Meridiano TV
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/63500
 #EXTINF:-1 tvg-id="" tvg-name="Venezuela - Ve Plus SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/82851fe08d2f4192a8256738db91892a.png" group-title="VENEZUELA",Venezuela - Ve Plus SD
@@ -2105,15 +1857,15 @@ http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/64572
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/64573
 #EXTINF:-1 tvg-id="" tvg-name="BOLIVIA |Â Pat La Paz" tvg-logo="" group-title="BOLIVIA",BOLIVIA |Â Pat La Paz
 http://tv.iptv5latino.cl:8080/CLENTECOL106/3JfNvHyFgH/64574
-#EXTINF:-1 tvg-id="" tvg-name="7500: Avión secuestrado (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL2uecLh2rTTbuVbOriXP0PhqIJ.jpg" group-title="PELÍCULAS",7500: Avión secuestrado (2019)
+#EXTINF:-1 tvg-id="" tvg-name="7500: Avión secuestrado (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL2uecLh2rTTbuVbOriXP0PhqIJ.jpg" group-title="PELICULAS",7500: Avión secuestrado (2019)
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/50210.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adú " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFen11ZNKbvfhZo8WBKbC5te8Hi.jpg" group-title="PELÍCULAS",Adú 
+#EXTINF:-1 tvg-id="" tvg-name="Adú " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFen11ZNKbvfhZo8WBKbC5te8Hi.jpg" group-title="PELICULAS",Adú 
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/51510.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FUSION HUMOR VIÑA 2020" tvg-logo="https://static.13.cl/7/sites/default/files/images/ocupload/fusion-humor.jpg" group-title="VIÑA 2020",FUSION HUMOR VIÑA 2020
+#EXTINF:-1 tvg-id="" tvg-name="FUSION HUMOR VIÑA 2020" tvg-logo="https://static.13.cl/7/sites/default/files/images/ocupload/fusion-humor.jpg" group-title="CONCIERTOs",FUSION HUMOR VIÑA 2020
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/27187.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Princesa Encantada Una Boda Real" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJaNBADFKRiMys8DiGemrLGYd9U.jpg" group-title="INFANTIL",La Princesa Encantada Una Boda Real
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/54154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La vieja guardia (2020)" tvg-logo="http://tv.iptv5latino.cl:8000/images/36321f3e92dbe88b23d02cc846b60a5c.jpg" group-title="PELÍCULAS",La vieja guardia (2020)
+#EXTINF:-1 tvg-id="" tvg-name="La vieja guardia (2020)" tvg-logo="http://tv.iptv5latino.cl:8000/images/36321f3e92dbe88b23d02cc846b60a5c.jpg" group-title="PELICULAS",La vieja guardia (2020)
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/51444.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Le llamaban Trinidad (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28kVOdftrAWAUm0qUChaj2s7xjq.jpg" group-title="PELICULAS",Le llamaban Trinidad (1970)
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/38407.mp4
@@ -2121,7 +1873,7 @@ http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/38407.mp4
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/42202.mkv
 #EXTINF:-1 tvg-id="" tvg-name="One World: Together at Home (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOvv28PSM04AerehwigqdeSdlmC.jpg" group-title="CONCIERTOS",One World: Together at Home (2020)
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/38343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PABLO ALBORAN VIÑA 2020" tvg-logo="https://www.pudahuel.cl/wp-content/uploads/2019/10/48656bf466bfe3bf238200aeea7c7ca6.jpg" group-title="VIÑA 2020",PABLO ALBORAN VIÑA 2020
+#EXTINF:-1 tvg-id="" tvg-name="PABLO ALBORAN VIÑA 2020" tvg-logo="https://www.pudahuel.cl/wp-content/uploads/2019/10/48656bf466bfe3bf238200aeea7c7ca6.jpg" group-title="CONCIERTOS",PABLO ALBORAN VIÑA 2020
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/27188.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rey Arturo: La leyenda de Excalibur (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeaNeVFVOdR81E8oIdNm0W2CMqz.jpg" group-title="PELICULAS",Rey Arturo: La leyenda de Excalibur (2017)
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/46093.mp4
@@ -2131,7 +1883,7 @@ http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/57826.mkv
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/57460.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Superman: Man of Tomorrow (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/767iTVV7BV6p7KJ73uH4F2nqdWd.jpg" group-title="PELICULAS 2020",Superman: Man of Tomorrow (2020)
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/55386.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Fanatic (2019)" tvg-logo="http://tv.iptv5latino.cl:8000/images/da551c036187888052067d9c920edef5.jpg" group-title="TERROR & SUSPENSO",The Fanatic (2019)
+#EXTINF:-1 tvg-id="" tvg-name="The Fanatic (2019)" tvg-logo="http://tv.iptv5latino.cl:8000/images/da551c036187888052067d9c920edef5.jpg" group-title="PELICULAS",The Fanatic (2019)
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/53646.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Vast of Night (2020)" tvg-logo="http://tv.iptv5latino.cl:8000/images/28f5d8370a7a1c85e272688fe5ea43e3.jpg" group-title="PELICULAS 2020",The Vast of Night (2020)
 http://tv.iptv5latino.cl:8080/movie/CLENTECOL106/3JfNvHyFgH/49403.mp4
